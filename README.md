@@ -1,4 +1,4 @@
-# BlackJack
+# BlackJack (TDD)
 
 ## Máquina de jugar a Black Jack.
 Un nuevo casino ha llegado a Las Vegas, pero este casino no quiere tener personal humano,
