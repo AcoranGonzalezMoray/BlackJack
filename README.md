@@ -46,3 +46,8 @@ Croupier: "5", "10" (15)<br/>
 Deck: "A" , "3" , "K" , "2"<br/>
 
 getWinners(...) -----> [Player1, Player3] 
+
+Requiere:
+```
+Java JDK 17
+```
